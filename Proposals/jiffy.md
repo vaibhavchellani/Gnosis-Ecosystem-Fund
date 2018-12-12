@@ -44,7 +44,7 @@ Links: github(https://github.com/kautukkundan)
 
 PS: We have completed grant projects for other projects like Zilliqa successfully:  https://github.com/merkaliser/scilla-vanilla
 ### BurnRate 
-5 devs : 3 Full time , 2 part time 
+3 devs : 2 Full time , 1 part time 
 2 - 3 month job 
 $20k USD per month 
 
